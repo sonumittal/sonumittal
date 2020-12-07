@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Any Open Source Project involving Web Development with PHP!
 <!-- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...>
-<!-- 😄 Pronouns: ...>
+<!--- 📫 How to reach me: ...-->
+<!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: i like traveling and listen music a lot when do programming.
 -->
